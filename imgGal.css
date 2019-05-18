@@ -1,0 +1,18 @@
+body{
+	background-color: #E6EAEF;
+	padding-top: 70px;
+}
+.navbar{
+	background-color:#031326;
+}
+
+.jumbotron{
+	background-color: #B5C1CF;
+	margin-top: 20px;
+	color: #041830;
+	
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}

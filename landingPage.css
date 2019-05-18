@@ -1,0 +1,30 @@
+html{
+	height: 100%;
+}
+
+body{
+	background-image: url(https://source.unsplash.com/2_3c4dIFYFU);
+	font-family: 'Bitter', serif;
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.5),
+				 0px 8px 12px rgba(0,0,0,0.2),
+				 0px 16px 24px rgba(0,0,0,0.1);
+}
+
+h1{
+	font-weight: 700;
+	font-size: 8rem;
+}
+hr{
+	width: 550px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
